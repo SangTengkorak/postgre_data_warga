@@ -1,0 +1,17 @@
+# Mount windows shared folder.
+https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/
+
+# Enable UFW
+https://www.vultr.com/docs/how-to-configure-uncomplicated-firewall-ufw-on-ubuntu-20-04/?utm_source=performance-max-apac&utm_medium=paidmedia&obility_id=17083941348&utm_adgroup=&utm_campaign=&utm_term=&utm_content=&gclid=CjwKCAjw9suYBhBIEiwA7iMhNEjYjteDttuwV43ehaA_ah2Xlpj4GFVe4aW0Qh7MMdZiIL_CVkOSQxoCH60QAvD_BwE
+
+# Setup PostgreSQL
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04
+
+# Change postgresql default database folder (Optional)
+https://www.digitalocean.com/community/tutorials/how-to-move-a-postgresql-data-directory-to-a-new-location-on-ubuntu-16-04
+
+# Allow PostgreSQL remote connections
+https://tecadmin.net/postgresql-allow-remote-connections/
+
+# Input data to PostgreSQL
+https://www.tutorialspoint.com/postgresql/postgresql_insert_query.htm
